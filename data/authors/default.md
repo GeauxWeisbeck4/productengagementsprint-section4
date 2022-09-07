@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
+name: Andrew Weisbeck
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Full-Stack Web Developer
+company: GeauxWeisbeck4
+email: andrew.weisbeck@gmail.com
+twitter: https://twitter.com/geauxweisbeck4
+linkedin: https://www.linkedin.com/in/geauxweisbeck4/
+github: https://github.com/geauxweisbeck4
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Andrew Weisbeck is a full-stack developer, entrepreneur, life-long learner, and creative human being. He resides in Raleigh, NC with his beautiful partner, Lisa Heusner, their two cats (Beaux and Zulu), and an Australian Cattle Dog mix name Magnolia.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Andrew's passions include programming, blogging, skiing, creating things, learning, reading, music, college football - the list goes on and on. His favorite teams are the Nebraska Cornhuskers although that is closely followed, if not tied with the North Carolina Tar Heels and LSU Tigers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+While he has been making websites for over five years and learning programming just as long, Andrew has really put non-stop work into full-stack development since last July when he started a Cyber Security Analyst role that he served in until November. His favorite language is Python, but Javascript has won a special place in his heart. The main framework he uses for the front end of applications is the Jamstack architecture and his go-to databases are PostgreSQL, Redis, and MongoDB.
+
+Reach out to Andrew for collaboration or to learn more at andrew.weisbeck@gmail.com or andrew@tarheeldevstudio.com. You can also always text him at (919)867-8368. We hope you enjoy his work!

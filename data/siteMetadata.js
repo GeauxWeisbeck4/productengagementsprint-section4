@@ -1,27 +1,28 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Geaux Engaging Products | Section4 Product Engagement Sprint',
+  author: 'Andrew Weisbeck',
+  headerTitle: 'Section4 Product Engagement Sprint',
+  description: 'Follow the Section 4 Product Engagement Sprint blog for Andrew Weisbeck',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://geauxengagingproducts.vercel.app',
+  siteRepo: 'https://github.com/geauxweisbeck4/productengagementsprint-section4',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'andrew.weisbeck@gmail.com',
+  github: 'https://github.com/geauxweisbeck4',
+  twitter: 'https://twitter.com/geauxweisbeck4',
+  facebook: 'https://facebook.com/geauxweisbeck4',
+  youtube: 'https://www.youtube.com/channel/UC8S2Rk7U83DnGaT3EibIREw',
+  linkedin: 'https://www.linkedin.com/in/geauxweisbeck4/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain:
+      '<script defer data-domain="geauxengagingproducts.vercel.app" src="https://plausible.io/js/plausible.js"></script>',
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
@@ -30,14 +31,14 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: 'revue',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
     // content security policy in the `next.config.js` file.
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
-    provider: 'giscus', // supported providers: giscus, utterances, disqus
+    provider: 'disqus', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/

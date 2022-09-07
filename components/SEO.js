@@ -24,6 +24,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={twImage} />
+      <meta name="monetization" content="$ilp.uphold.com/LefKHyNrpeE2"></meta>
       <link
         rel="canonical"
         href={canonicalUrl ? canonicalUrl : `${siteMetadata.siteUrl}${router.asPath}`}
@@ -66,6 +67,7 @@ export const TagSEO = ({ title, description }) => {
           title={`${description} - RSS feed`}
           href={`${siteMetadata.siteUrl}${router.asPath}/feed.xml`}
         />
+        <meta name="monetization" content="$ilp.uphold.com/LefKHyNrpeE2"></meta>
       </Head>
     </>
   )
