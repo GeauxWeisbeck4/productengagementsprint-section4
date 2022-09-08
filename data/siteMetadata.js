@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Geaux Engaging Products | Section4 Product Engagement Sprint',
   author: 'Andrew Weisbeck',
-  headerTitle: 'Section4 Product Engagement Sprint',
+  headerTitle: '',
   description: 'Follow the Section 4 Product Engagement Sprint blog for Andrew Weisbeck',
   language: 'en-us',
   theme: 'system', // system, dark or light
