@@ -68,7 +68,6 @@
       "eslint --fix"
     ],
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
-      "prettier --write"
     ]
   }
 }
