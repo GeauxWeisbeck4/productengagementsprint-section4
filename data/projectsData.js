@@ -1,17 +1,13 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Geaux Engaging Products',
+    description: `I have attended seven sprints through Section 4 so far this year and this was one that I had been really looking forward to. Check out the website and blog for my experience in the Product Engagement Sprint.`,
+    imgSrc: '/static/images/pesproject.png',
+    href: 'https://geauxengagingproducts.vercel.app/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'Geaux Section 4',
+    description: `I have made a website for every sprint I've done and I decided that I should probably have a central app to link all the sites together so it is easier to find them. Check out my Section 4 project website and let me know what you think!`,
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },
