@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Geaux Engaging Products | Section4 Product Engagement Sprint',
   author: 'Andrew Weisbeck',
   headerTitle: '',
-  description: 'Follow the Section 4 Product Engagement Sprint blog for Andrew Weisbeck',
+  description:
+    'Follow the Section 4 Product Engagement Sprint blog for Andrew Weisbeck to learn about making engaging products. The blog will provide all of the main content and I am working on a presentation for my new product, MoonBuddhas - a productivity and mental wellness app.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://geauxengagingproducts.vercel.app',
