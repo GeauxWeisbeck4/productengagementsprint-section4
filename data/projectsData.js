@@ -17,6 +17,12 @@ const projectsData = [
     imgSrc: 'https://geauxstorytelling.netlify.app/assets/home-banner.svg',
     href: 'https://geauxstorytelling.netlify.app/',
   },
+  {
+    title: 'Moon Buddhas: Developer Productivity App',
+    description: `This will be where my application goes when I deploy the MVP`,
+    imgSrc: 'https://geauxengagingproducts.vercel.app/the-moon-buddhas-app-introduction',
+    href: 'https://geauxengagingproducts.vercel.app/the-moon-buddhas-app-introduction/',
+  },
 ]
 
 export default projectsData
